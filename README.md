@@ -1,2 +1,2 @@
-# JyputerNotebooks 
-Creating visualization with open datasets in Python using Jyputer Notebooks
+# JupyterNotebooks 
+Creating visualization with open datasets in Python using Jupyter Notebooks
