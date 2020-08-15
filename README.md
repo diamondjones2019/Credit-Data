@@ -1,2 +1,1 @@
-# Credit-Data
-Open source dataset on a variety of credit reports of people's finances
+Creating visualization with open datasets in Python using Jyputer Notebooks
