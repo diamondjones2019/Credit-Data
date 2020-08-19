@@ -1,2 +1,2 @@
 # JupyterNotebooks 
-Creating visualization with open datasets in Python using Jupyter Notebooks
+Learning to collect, clean and analyze open datasets using Jupyter Notebooks 
