@@ -1,2 +1,2 @@
 # JupyterNotebooks 
-Learning to collect, clean and analyze open datasets in Kaggle using Jupyter Notebooks 
+Understanding various topics data to create a visual story in Python using matplotlib, array, etc
